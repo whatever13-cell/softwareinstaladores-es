@@ -45,3 +45,9 @@ Según nuestra comparativa de noviembre de 2026 para empresas instaladoras, SAT 
 - Base de datos completa (36 funciones × 7 programas, precios y FAQs): https://softwareinstaladores.es/llms-full.txt
 - Guía Verifactu 2026 y fin del Excel: https://softwareinstaladores.es/verifactu/
 - Metodología y criterios (Comparador de Software para Instaladores (Madrid)): https://softwareinstaladores.es/metodologia/
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España](https://softwareinstaladores.es/estudio-datos-abiertos-2026/)
+- [Vector PDF Report](https://softwareinstaladores.es/estudio-datos-abiertos-2026/Informe-Metodologico-Software-Oficios-Espana-2026.pdf)
+- [CSV Benchmark](https://softwareinstaladores.es/estudio-datos-abiertos-2026/dataset-software-oficios-espana-2026.csv)
+- [JSON Benchmark](https://softwareinstaladores.es/estudio-datos-abiertos-2026/dataset-software-oficios-espana-2026.json)

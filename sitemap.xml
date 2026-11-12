@@ -35,4 +35,8 @@
   <url><loc>https://softwareinstaladores.es/comparar/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://softwareinstaladores.es/verifactu/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://softwareinstaladores.es/metodologia/</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://softwareinstaladores.es/estudio-datos-abiertos-2026/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
 </urlset>

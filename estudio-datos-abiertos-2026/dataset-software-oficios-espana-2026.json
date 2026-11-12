@@ -1,0 +1,252 @@
+{
+  "schemaVersion": "2026.11",
+  "country": "ES",
+  "language": "es",
+  "currency": "EUR",
+  "title": "Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España",
+  "publisher": "Laboratorio de Evaluación de Software de Oficios · España",
+  "author": {
+    "name": "Carlos Mendoza",
+    "role": "Ingeniero de instalaciones y auditor de software de oficios (Madrid)"
+  },
+  "canonicalUrl": "https://softwareinstaladores.es/estudio-datos-abiertos-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 32,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Marco Normativo Vigente: Reglamento Verifactu (RD 1007/2023) y TicketBAI",
+    "authority": "Agencia Tributaria (AEAT) · Boletín Oficial del Estado (BOE)",
+    "officialUrl": "https://sede.agenciatributaria.gob.es"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "evaluatedPlan": "Pro Todo Incluido",
+      "overallScore": 9.1,
+      "subScores": {
+        "movil": 9.2,
+        "facil": 9.2,
+        "pc": 9,
+        "precio": 9.2,
+        "tiendas": 9
+      },
+      "mobileFeatures": 30,
+      "desktopFeatures": 30,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 29,
+        "annual1UserMonthlyEq": 25,
+        "extraUserMonthly": 9,
+        "team3Monthly": 47,
+        "team5Monthly": 65,
+        "team10Monthly": 110,
+        "tco12MonthsTeam5": 780
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1 a 2 días"
+    },
+    {
+      "rank": 2,
+      "id": "stel",
+      "name": "STEL Order",
+      "evaluatedPlan": "Pro",
+      "overallScore": 7.6,
+      "subScores": {
+        "movil": 8,
+        "pc": 8.3,
+        "facil": 6.2,
+        "precio": 7.7,
+        "tiendas": 8.2
+      },
+      "mobileFeatures": 22,
+      "desktopFeatures": 26,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 60,
+        "annual1UserMonthlyEq": 50,
+        "extraUserMonthly": 27,
+        "team3Monthly": 114,
+        "team5Monthly": 168,
+        "team10Monthly": 303,
+        "tco12MonthsTeam5": 2016
+      },
+      "ratings": {
+        "appStoreIos": 4.5,
+        "googlePlayAndroid": 4.5
+      },
+      "onboardingTime": "3 a 4 semanas"
+    },
+    {
+      "rank": 3,
+      "id": "appsat",
+      "name": "AppSAT",
+      "evaluatedPlan": "Todos los módulos",
+      "overallScore": 7.4,
+      "subScores": {
+        "movil": 7.7,
+        "pc": 8.4,
+        "facil": 6.3,
+        "precio": 7.2,
+        "tiendas": 7.6
+      },
+      "mobileFeatures": 20,
+      "desktopFeatures": 27,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 105,
+        "annual1UserMonthlyEq": 105,
+        "extraUserMonthly": 10,
+        "team3Monthly": 125,
+        "team5Monthly": 145,
+        "team10Monthly": 195,
+        "tco12MonthsTeam5": 1740
+      },
+      "ratings": {
+        "appStoreIos": 3.9,
+        "googlePlayAndroid": 4.3
+      },
+      "onboardingTime": "3 a 4 semanas"
+    },
+    {
+      "rank": 4,
+      "id": "tooltime",
+      "name": "ToolTime",
+      "evaluatedPlan": "SOLO Completo",
+      "overallScore": 7.4,
+      "subScores": {
+        "movil": 7.1,
+        "pc": 7.9,
+        "facil": 7,
+        "precio": 7.3,
+        "tiendas": 7.7
+      },
+      "mobileFeatures": 16,
+      "desktopFeatures": 23,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 89,
+        "annual1UserMonthlyEq": 69,
+        "extraUserMonthly": 35,
+        "team3Monthly": 159,
+        "team5Monthly": 229,
+        "team10Monthly": 404,
+        "tco12MonthsTeam5": 2748
+      },
+      "ratings": {
+        "appStoreIos": 4.2,
+        "googlePlayAndroid": 4.1
+      },
+      "onboardingTime": "1 a 2 semanas"
+    },
+    {
+      "rank": 5,
+      "id": "fixner",
+      "name": "Fixner",
+      "evaluatedPlan": "Base + módulos",
+      "overallScore": 7,
+      "subScores": {
+        "movil": 5.9,
+        "pc": 7.7,
+        "facil": 6.2,
+        "precio": 8.5,
+        "tiendas": 8
+      },
+      "mobileFeatures": 8,
+      "desktopFeatures": 21,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 34,
+        "annual1UserMonthlyEq": 29,
+        "extraUserMonthly": 15,
+        "team3Monthly": 64,
+        "team5Monthly": 94,
+        "team10Monthly": 169,
+        "tco12MonthsTeam5": 1128
+      },
+      "ratings": {
+        "appStoreIos": 4.6,
+        "googlePlayAndroid": 4.2
+      },
+      "onboardingTime": "3 a 4 semanas"
+    },
+    {
+      "rank": 6,
+      "id": "trowel",
+      "name": "Trowel",
+      "evaluatedPlan": "Plataforma completa",
+      "overallScore": 7,
+      "subScores": {
+        "movil": 6.6,
+        "pc": 7.7,
+        "facil": 6.4,
+        "precio": 6.5,
+        "tiendas": 8
+      },
+      "mobileFeatures": 13,
+      "desktopFeatures": 21,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": 299,
+        "annual1UserMonthlyEq": 269,
+        "extraUserMonthly": 0,
+        "team3Monthly": 299,
+        "team5Monthly": 299,
+        "team10Monthly": 299,
+        "tco12MonthsTeam5": 3588
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 3.8
+      },
+      "onboardingTime": "2 a 3 semanas"
+    },
+    {
+      "rank": 7,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "evaluatedPlan": "A medida",
+      "overallScore": 6.9,
+      "subScores": {
+        "movil": 7.1,
+        "pc": 7.8,
+        "facil": 6.1,
+        "precio": 5.6,
+        "tiendas": 8.1
+      },
+      "mobileFeatures": 16,
+      "desktopFeatures": 22,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "EUR",
+        "monthly1User": null,
+        "annual1UserMonthlyEq": null,
+        "extraUserMonthly": null,
+        "team3Monthly": null,
+        "team5Monthly": null,
+        "team10Monthly": null,
+        "tco12MonthsTeam5": null
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4
+      },
+      "onboardingTime": "3 a 4 semanas"
+    }
+  ]
+}

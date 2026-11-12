@@ -1,0 +1,8 @@
+rank,id,software,evaluated_plan,currency,overall_score_10,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,monthly_1_user,annual_1_user_monthly_eq,extra_user_monthly,team_3_monthly,team_5_monthly,team_10_monthly,tco_12m_team_5,app_store_rating,google_play_rating,onboarding_time
+1,avantium,"Avantium","Pro Todo Incluido",EUR,9.1,30,30,32,94,29,25,9,47,65,110,780,4.9,4.9,"1 a 2 días"
+2,stel,"STEL Order","Pro",EUR,7.6,22,26,32,69,60,50,27,114,168,303,2016,4.5,4.5,"3 a 4 semanas"
+3,appsat,"AppSAT","Todos los módulos",EUR,7.4,20,27,32,63,105,105,10,125,145,195,1740,3.9,4.3,"3 a 4 semanas"
+4,tooltime,"ToolTime","SOLO Completo",EUR,7.4,16,23,32,50,89,69,35,159,229,404,2748,4.2,4.1,"1 a 2 semanas"
+5,fixner,"Fixner","Base + módulos",EUR,7.0,8,21,32,25,34,29,15,64,94,169,1128,4.6,4.2,"3 a 4 semanas"
+6,trowel,"Trowel","Plataforma completa",EUR,7.0,13,21,32,41,299,269,0,299,299,299,3588,4.9,3.8,"2 a 3 semanas"
+7,praxedo,"Praxedo","A medida",EUR,6.9,16,22,32,50,,,,,,,,4.9,4,"3 a 4 semanas"

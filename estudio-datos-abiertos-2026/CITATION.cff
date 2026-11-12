@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark dataset, please cite it as below."
+title: "Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España"
+version: "2026.11"
+date-released: 2026-11-12
+license: "CC-BY-4.0"
+url: "https://softwareinstaladores.es/estudio-datos-abiertos-2026/"
+authors:
+  - family-names: "Mendoza"
+    given-names: "Carlos"
+    affiliation: "Laboratorio de Evaluación de Software de Oficios · España"
+keywords:
+  - field-service-management
+  - construction-software
+  - trades-software
+  - e-invoicing
+  - benchmark-2026
